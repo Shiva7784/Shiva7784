@@ -54,22 +54,6 @@ I enjoy turning ideas into real-world products with clean UI, optimized backend 
 
 # 💼 Featured Projects
 
-## 🌍 Ceylon Odyssey – Travel Booking Platform
-Full-stack travel booking web application with secure authentication, destination management, booking system, payment integration, and responsive UI.
-
-### Features
-- User Authentication & Authorization
-- Destination & Booking Management
-- Payment Gateway Integration
-- Admin Dashboard
-- PDF Receipt Generation
-- Responsive Design
-
-### Tech Stack
-`React` `Node.js` `Express.js` `MongoDB` `JWT` `TailwindCSS`
-
----
-
 ## 🎬 Anime Streaming & Discovery Platform
 Modern anime web application with authentication, streaming features, movie detail pages, trailers, and recommended content.
 
