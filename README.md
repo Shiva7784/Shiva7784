@@ -92,8 +92,7 @@ AI-powered recipe generation application that creates recipes dynamically based 
 
 ---
 
-# 🏆 GitHub Achievements
-
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shiva7784&theme=radical&no-frame=false&no-bg=true&margin-w=4
 ---
 
