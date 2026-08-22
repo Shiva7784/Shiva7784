@@ -58,7 +58,7 @@ https.get(profileUrl, {
       markdown += `  <a href="https://github.com/${username}?tab=achievements" style="text-decoration: none; margin: 0 10px;">\n`;
       markdown += `    <img src="${ach.imgUrl}" width="80" alt="${displayName}" title="${displayName}" style="vertical-align: middle;" />\n`;
       if (ach.tierText) {
-        markdown += `    <sub style="font-size: 14px; font-weight: bold; color: #a78bfa; margin-left: -15px;">${ach.tierText}</sub>\n`;
+        markdown += `    <sub style="font-size: 14px; font-weight: bold; color: #7c3aed; margin-left: -15px;">${ach.tierText}</sub>\n`;
       }
       markdown += `  </a>\n`;
     });

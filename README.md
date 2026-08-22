@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18">
+  <img alt="Shiva's Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Learning+new+technologies;Turning+ideas+into+real+projects;Optimizing+application+latency" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Learning+new+technologies;Turning+ideas+into+real+projects;Optimizing+application+latency">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Learning+new+technologies;Turning+ideas+into+real+projects;Optimizing+application+latency">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Learning+new+technologies;Turning+ideas+into+real+projects;Optimizing+application+latency">
+</picture>
 
 <br/><br/>
 
@@ -144,7 +152,7 @@ goal:
 <div align="center">
   <a href="https://github.com/Shiva7784?tab=achievements" style="text-decoration: none; margin: 0 10px;">
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark (x2)" title="Pull Shark (x2)" style="vertical-align: middle;" />
-    <sub style="font-size: 14px; font-weight: bold; color: #a78bfa; margin-left: -15px;">x2</sub>
+    <sub style="font-size: 14px; font-weight: bold; color: #7c3aed; margin-left: -15px;">x2</sub>
   </a>
   <a href="https://github.com/Shiva7784?tab=achievements" style="text-decoration: none; margin: 0 10px;">
     <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" title="YOLO" style="vertical-align: middle;" />
@@ -168,7 +176,15 @@ goal:
 <div align="center">
 ### 🚀 Keep Building. Keep Learning. Keep Growing.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%94%A5" alt="Footer Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%94%A5">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%94%A5">
+  <img alt="Footer Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%94%A5">
+</picture>
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer">
+  <img alt="Shiva's Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer">
+</picture>
 </div>
