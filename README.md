@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Learning+new+technologies;Turning+ideas+into+real+projects;Optimizing+application+latency" alt="Typing SVG" />
 
@@ -139,10 +139,19 @@ goal:
 
 ## 🏆 GitHub Achievements
 
+<!-- START_SECTION:achievements -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-bronze.png" width="120" alt="Pull Shark (Bronze)" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="120" alt="YOLO" />
+  <a href="https://github.com/Shiva7784?tab=achievements" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark (x2)" title="Pull Shark (x2)" style="vertical-align: middle;" />
+    <sub style="font-size: 14px; font-weight: bold; color: #a78bfa; margin-left: -15px;">x2</sub>
+  </a>
+  <a href="https://github.com/Shiva7784?tab=achievements" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" title="YOLO" style="vertical-align: middle;" />
+  </a>
 </div>
+
+<!-- END_SECTION:achievements -->
 
 ---
 
@@ -161,5 +170,5 @@ goal:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%94%A5" alt="Footer Animation"/>
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=120&section=footer"/>
 </div>
