@@ -140,11 +140,8 @@ goal:
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-repo.vercel.app/?username=Shiva7784&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-repo.vercel.app/?username=Shiva7784&theme=default&no-frame=false&no-bg=true&margin-w=4">
-    <img alt="Shiva's GitHub Trophies" src="https://github-profile-repo.vercel.app/?username=Shiva7784&theme=default&no-frame=false&no-bg=true&margin-w=4">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-bronze.png" width="120" alt="Pull Shark (Bronze)" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="120" alt="YOLO" />
 </div>
 
 ---
