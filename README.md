@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18">
-  <img alt="Shiva's Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3AA78BFA%2C100%3A22D3EE&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18&v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3A7C3AED%2C100%3A0891B2&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18&v=2">
+  <img alt="Shiva's Header" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7C3AED%2C100%3A0891B2&height=220&section=header&text=Shiva%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18&v=2">
 </picture>
 
 <picture>
@@ -183,8 +183,8 @@ goal:
 </picture>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer">
-  <img alt="Shiva's Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3AA78BFA%2C100%3A22D3EE&height=120&section=footer&v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3A7C3AED%2C100%3A0891B2&height=120&section=footer&v=2">
+  <img alt="Shiva's Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7C3AED%2C100%3A0891B2&height=120&section=footer&v=2">
 </picture>
 </div>
