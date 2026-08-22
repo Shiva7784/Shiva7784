@@ -25,6 +25,7 @@ currently_learning:
   - System Design
   - Advanced Next.js
 mindset: Learn → Build → Share → Improve
+---
 
 Passionate Full-Stack Developer focused on building scalable, responsive, and modern web applications using the MERN stack and Next.js. Skilled in developing secure authentication systems, REST APIs, payment gateway integrations, database-driven applications, and AI-powered solutions. I enjoy turning ideas into real-world products with clean UI, optimized backend architecture, and seamless user experiences.
 
