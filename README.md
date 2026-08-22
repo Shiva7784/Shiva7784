@@ -49,200 +49,213 @@ currently_learning:
 mindset:
   Learn → Build → Share → Improve
 
-I'm a Full-Stack Developer passionate about building practical, scalable, and user-focused web applications.
-I work primarily with the MERN stack, Next.js, TypeScript, databases, and AI-powered technologies, turning ideas into real-world projects.
-I'm continuously learning new technologies and exploring how AI can be integrated into modern web applications.
+I'm a passionate Full-Stack Developer focused on building scalable, responsive, and modern web applications using the MERN stack and Next.js.
 
-🛠️ Tech Stack
+I enjoy turning ideas into real-world products by combining clean UI, optimized backend architecture, secure authentication, database-driven systems, and AI-powered solutions.
+
+■■ Tech Stack
 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css"/> </p>
 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,tailwind" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/> </p>
 Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" /> </p>
-AI & Data
-<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/> </p>
+Search & AI
+<p> <img src="https://skillicons.dev/icons?i=python"/> </p> <p>
 
-LangGraph ChromaDB Groq Jina AI RAG Generative AI
-
+</p>
 Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,render,firebase" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/> </p>
 
-MongoDB Compass Cloudinary Elasticsearch Clerk Strapi Arcjet
+■ My Learning Journey
 
-🚀 My Learning Journey
-
-Full-Stack Development
-        ↓
-JavaScript & TypeScript
-        ↓
-React & Next.js
-        ↓
+BCA
+ ↓
+Programming Fundamentals
+ ↓
+JavaScript
+ ↓
+React
+ ↓
 Node.js & Express
-        ↓
-MongoDB & SQL Databases
-        ↓
-REST APIs & Backend Architecture
-        ↓
-AI & Generative AI
-        ↓
-RAG Applications
-        ↓
-Build Real-World Products
+ ↓
+MongoDB
+ ↓
+MERN Stack
+ ↓
+Next.js
+ ↓
+Backend Engineering
+ ↓
+AI-Powered Applications
+ ↓
+System Design
+ ↓
+Professional Growth
 
 Currently Exploring
-🤖 Artificial Intelligence & Generative AI
-🧠 Retrieval-Augmented Generation (RAG)
-🔗 LangGraph & AI Agent Workflows
-⚡ Advanced React & Next.js
-🏗️ Scalable Backend Architecture
-🔍 Elasticsearch & Advanced Search
-☁️ Cloud Deployment & Production Applications
+Data Structures & Algorithms
+System Design Fundamentals
+Advanced Next.js
+Backend Architecture
+AI-Powered Web Applications
+RAG & LLM Applications
 
-💻 Featured Projects
-🌾 Project 01 — Farm Connect
+■ Featured Projects
+■ Project 01 — Anime Streaming & Discovery Platform
 
-A premium agricultural equipment rental platform built to help users discover and rent farming equipment through a modern web interface.
+A modern anime streaming and discovery platform built with the MERN stack, providing users with authentication, anime discovery, detailed content pages, trailers, streaming features, and personalized recommendations.
 
-Key Features:
-
-Equipment listing and management
-Advanced search and filtering
-Elasticsearch-powered equipment search
-Price range filtering
-Equipment type filtering
-Admin dashboard
-Image uploads with Cloudinary
-MongoDB-based data management
-Responsive user interface
-
-Tech Stack:
-
-Next.js TypeScript React Emotion CSS MongoDB Elasticsearch Cloudinary RTK Query
-
-🤖 Project 02 — AI Recipe Platform
-
-An AI-powered recipe application that helps users discover and generate recipes based on their available ingredients.
-
-Key Features:
-
-AI-powered recipe generation
-My Pantry functionality
-AI ingredient scanning
-User authentication
-Recipe management
-Modern responsive UI
-Database-backed application
-AI integration using Gemini
-
-Tech Stack:
-
-Next.js TypeScript React Shadcn/UI NeonDB Clerk Strapi Gemini AI
-
-🎬 Project 03 — AnimeFlix
-
-A MERN-based movie and anime streaming platform designed with a modern user experience for browsing and discovering entertainment content.
-
-Key Features:
-
-Movie and anime browsing
-Search functionality
-Category-based content
+Features
+JWT Authentication
+Anime & Movie Listings
+Detailed Anime Pages
+Trailer Integration
+Streaming Interface
+Recommended Content
 Responsive UI
-Backend REST APIs
-MongoDB data storage
-User-oriented streaming interface
+API Integration
 
 Tech Stack:
 
-React Node.js Express.js MongoDB JavaScript CSS
+React Node.js Express.js MongoDB TailwindCSS JWT
 
-🤖 AI & RAG Projects
-🧠 RAG Chatbot
+■ Project 02 — AI Recipe Generation Platform
 
-A Retrieval-Augmented Generation chatbot designed to provide contextual responses using external knowledge sources.
+An AI-powered recipe application that helps users discover and generate recipes dynamically based on their ingredients, preferences, and requirements.
+
+The application combines modern Next.js development with AI-powered functionality to provide an interactive recipe generation experience.
+
+Features
+AI-Based Recipe Generation
+Dynamic Recipe Search
+Ingredient-Based Suggestions
+User Authentication
+Modern Responsive UI
+API Integration
+Personalized Recipe Experience
 
 Tech Stack:
 
-Python Streamlit FastAPI Groq LangGraph ChromaDB Jina AI Llama 3.3 Arcjet
+Next.js React Node.js MongoDB AI APIs
 
-Architecture
+■ Project 03 — Farm Connect
 
-User
-  ↓
-Chat Interface
-  ↓
-FastAPI Backend
-  ↓
+A full-stack premium agricultural equipment rental platform designed to help users discover and rent agricultural equipment based on location, category, type, and pricing.
+
+The platform includes an admin dashboard for managing equipment, image uploads, inventory, and searchable equipment data.
+
+Features
+Equipment Management
+Admin Dashboard
+Equipment Search
+Category & Type Filters
+Price Range Filtering
+Location-Based Data
+Image Uploads
+Elasticsearch-Powered Search
+Responsive UI
+Pagination & Sorting
+
+Tech Stack:
+
+Next.js TypeScript MongoDB Elasticsearch Cloudinary Emotion CSS
+
+■ Project 04 — RAG AI Chatbot
+
+An AI-powered Retrieval-Augmented Generation chatbot designed to answer questions using contextual information retrieved from a knowledge base.
+
+The project combines vector search, embeddings, reranking, LLMs, and LangGraph to create an intelligent conversational experience.
+
+Features
+RAG Pipeline
+AI Chat Interface
+Document Retrieval
+Vector Database
+Semantic Search
+Embeddings
+Reranking
+LLM Integration
 LangGraph Workflow
-  ↓
-Retrieval
-  ↓
-Jina AI Embeddings / Reranking
-  ↓
-ChromaDB
-  ↓
-Groq LLM
-  ↓
-Context-Aware Response
 
-💼 Full-Stack Development
+Tech Stack:
 
-Frontend
-React • Next.js • TypeScript
-          ↓
-State Management
-Redux Toolkit • RTK Query
-          ↓
-Backend
-Node.js • Express.js • Fastify
-          ↓
-APIs
-REST APIs • Authentication • Integrations
-          ↓
-Databases
-MongoDB • PostgreSQL • MySQL • NeonDB
-          ↓
-Search & Storage
-Elasticsearch • Cloudinary
-          ↓
-Deployment
-Vercel • Netlify • Render
+Python FastAPI Streamlit Groq ChromaDB Jina AI LangGraph
 
-📚 Currently Learning
+■ My Learning Journey
 
-AI Engineering
+Education
     ↓
-Generative AI
+Programming
     ↓
-RAG Systems
+Web Development
     ↓
-AI Agents
+MERN Stack
     ↓
-LangGraph
+Advanced Full-Stack Development
     ↓
-Production AI Applications
+Next.js
+    ↓
+AI-Powered Applications
+    ↓
+System Design
+    ↓
+Real-World Projects
+    ↓
+Professional Growth
 
-🎯 2026 Goals
-🚀 Become a strong Full-Stack Developer
-🤖 Build production-ready AI applications
-🧠 Deepen knowledge of Generative AI and RAG
-⚡ Improve React, Next.js and TypeScript skills
-🏗️ Learn scalable backend architecture
-☁️ Deploy more production-ready applications
-💻 Contribute to open-source projects
-📈 Continuously improve problem-solving and DSA
+■ Current Focus
+
+learning:
+  - Data Structures & Algorithms
+  - System Design Fundamentals
+  - Advanced Next.js
+  - Backend Architecture
+
+building:
+  - Full-Stack Web Applications
+  - AI-Powered Applications
+  - Scalable Backend Systems
+
+exploring:
+  - Artificial Intelligence
+  - RAG & LLM Applications
+  - System Architecture
+  - Backend Engineering
+
+goal:
+  - Become a Strong Full-Stack Engineer
+  - Build Scalable Production-Ready Applications
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shiva7784&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva7784&layout=compact&theme=tokyonight&hide_border=true" height="180"/> <br/> <img src="https://streak-stats.demolab.com?user=Shiva7784&theme=tokyonight&hide_border=true" /> </div>
 
-🐍 Contribution Graph
-<div align="center"> <img src="https://raw.githubusercontent.com/Shiva7784/Shiva7784/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
+<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=Shiva7784&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> <br/> <img src="https://streak-stats.demolab.com/?user=Shiva7784&theme=dark&hide_border=false" /> <br/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shiva7784&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> </div>
 
-🤝 Let's Connect
+🏆 GitHub Achievements
 
-I'm always interested in building projects, learning new technologies, exploring AI, and collaborating on interesting ideas.
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shiva7784&theme=radical&no-frame=false&no-bg=true&margin-w=4"/> </div>
+■ GitHub
+<div align="center"> <a href="https://github.com/Shiva7784"> <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<div align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Shiva7784"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br/> <div align="center">
-💡 Learn → Build → Share → Improve
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/> </div>
+
+🌐 Connect With Me
+
+<div align="center"> <a href="https://linkedin.com/in/shivads324"> <img src="https://img.shields.io/badge/LinkedIn-Shiva%20D%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shivads324@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Shiva7784"> <img src="https://img.shields.io/badge/GitHub-Shiva7784-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+
+📌 Profile Views
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Shiva7784&style=for-the-badge&color=blue"/> </div>
+💡 Developer Quote
+
+“Code is not just about solving problems — it's about building experiences that people remember.”
+
+<div align="center">
+
+■ Keep Building. Keep Learning. Keep Growing.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%94%A5" alt="Footer Animation"/>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/> </div> ```
