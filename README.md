@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SHIVA%20DS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SHIVA%20D%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20NEXT.JS%20%7C%20AI&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real-world+full-stack+applications;Learning+new+technologies;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Learning+new+technologies;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/EDUCATION-BCA-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%7C%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Bangalore%2C%20India-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%7C%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-INDIA-4C1D95?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/shivads324">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shivads324@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -28,29 +28,26 @@
 
 ---
 
-## 👨‍💻 About Me
+## ■ About Me
 
 ```yaml
-name: Shiva DS
+name: Shiva D S
 education: BCA
 role: Full-Stack Developer
+
 focus:
-  - MERN Stack
-  - Full-Stack Development
-  - Artificial Intelligence
-  - Modern Web Applications
+  - MERN Stack Development
+  - Next.js Development
+  - AI-Powered Applications
+  - Backend Engineering
 
 currently_learning:
-  - AI & Generative AI
-  - RAG Applications
-  - Advanced React & Next.js
-  - Backend Architecture
+  - Data Structures & Algorithms
+  - System Design Fundamentals
+  - Advanced Next.js
 
 mindset:
-  - Learn
-  - Build
-  - Share
-  - Improve
+  Learn → Build → Share → Improve
 
 I'm a Full-Stack Developer passionate about building practical, scalable, and user-focused web applications.
 I work primarily with the MERN stack, Next.js, TypeScript, databases, and AI-powered technologies, turning ideas into real-world projects.
