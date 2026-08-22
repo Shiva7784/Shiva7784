@@ -118,17 +118,33 @@ goal:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Shiva7784&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Shiva7784&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shiva7784&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Shiva7784&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Shiva7784&theme=default&hide_border=false&include_all_commits=false&count_private=false">
+    <img alt="Shiva's GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Shiva7784&theme=default&hide_border=false&include_all_commits=false&count_private=false">
+  </picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shiva7784&theme=dark&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Shiva7784&theme=default&hide_border=false">
+    <img alt="Shiva's GitHub Streak" src="https://streak-stats.demolab.com/?user=Shiva7784&theme=default&hide_border=false">
+  </picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Shiva7784&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Shiva7784&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    <img alt="Shiva's Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shiva7784&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  </picture>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiva7784&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-repo.vercel.app/?username=Shiva7784&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-repo.vercel.app/?username=Shiva7784&theme=default&no-frame=false&no-bg=true&margin-w=4">
+    <img alt="Shiva's GitHub Trophies" src="https://github-profile-repo.vercel.app/?username=Shiva7784&theme=default&no-frame=false&no-bg=true&margin-w=4">
+  </picture>
 </div>
 
 ---
