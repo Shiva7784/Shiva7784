@@ -133,9 +133,9 @@ goal:
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shiva7784&theme=dark&hide_border=false&v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Shiva7784&hide_border=false&v=2">
-    <img alt="Shiva's GitHub Streak" src="https://streak-stats.demolab.com/?user=Shiva7784&hide_border=false&v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="./streak-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./streak-light.svg">
+    <img alt="Shiva's GitHub Streak" src="./streak-light.svg">
   </picture>
   <br/><br/>
   <picture>

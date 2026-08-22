@@ -25,10 +25,24 @@ jobs:
       - name: Update achievements in README
         run: node update_achievements.js
 
+      - name: Generate light-theme streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Shiva7784&theme=default&hide_border=false
+          path: streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark-theme streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Shiva7784&theme=dark&hide_border=false
+          path: streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff-index --quiet HEAD || git commit -m "auto: update achievements in README"
+          git add README.md streak-light.svg streak-dark.svg
+          git diff-index --quiet HEAD || git commit -m "auto: update achievements and streak stats"
           git push
