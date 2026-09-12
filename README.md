@@ -151,7 +151,7 @@ goal:
 
 <div align="center">
   <a href="https://github.com/Shiva7784?tab=achievements" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark (x2)" title="Pull Shark (x2)" style="vertical-align: middle;" />
+    <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="80" alt="Pull Shark (x2)" title="Pull Shark (x2)" style="vertical-align: middle;" />
     <sub style="font-size: 14px; font-weight: bold; color: #7c3aed; margin-left: -15px;">x2</sub>
   </a>
   <a href="https://github.com/Shiva7784?tab=achievements" style="text-decoration: none; margin: 0 10px;">
